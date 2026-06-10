@@ -48,7 +48,7 @@ Total indexed vectors: 2035
 - Sequential ingestion with smaller batches
 
 ## Public Chatbot Link
-[[Add Link]](https://cloud.flowiseai.com/chatbot/b9275f9e-7527-43b0-9913-d4b402c8a03f)
+[[SCM Assistant Bot]](https://cloud.flowiseai.com/chatbot/b9275f9e-7527-43b0-9913-d4b402c8a03f)
 
 ## Chatflow Export
 scm_assistant.json
